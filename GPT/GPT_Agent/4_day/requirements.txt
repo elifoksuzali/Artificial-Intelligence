@@ -1,0 +1,9 @@
+# region Requirements
+fastapi==0.109.2
+uvicorn==0.27.1
+openai==1.12.0
+pydantic==2.6.1
+python-dotenv==1.0.1
+mysql-connector-python==8.3.0
+qdrant-client==1.7.0
+python-multipart==0.0.9 

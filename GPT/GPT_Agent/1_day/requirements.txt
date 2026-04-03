@@ -1,0 +1,7 @@
+openai>=1.0.0
+qdrant-client>=1.7.0
+openai-agents
+unitycatalog-openai[databricks]==0.2.0
+databricks-agents
+mlflow==2.21.0
+uv
