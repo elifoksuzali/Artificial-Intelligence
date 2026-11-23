@@ -1,0 +1,29 @@
+# ==== GİZLİ BİLGİLER — ASLA REPOYA EKLENMEMELİ ====
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.*
+credentials.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+Thumbs.db
+.DS_Store
+
+# Veri / log (gerekirse)
+*.log
